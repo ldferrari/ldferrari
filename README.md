@@ -4,7 +4,7 @@ Estudante de Trybe com foco em me tornar Desenvolvedor full stack.
 Com bastante apego no designer das aplicações, gosto bastante de CSS.
 
 Graduado em Administração pela PUC de Goiás, adquiriu experiência analítica como corretor de investimentos (Gradual Investimentos) e como analista comercial e auditoria (BRMALLS).
-Últimas experiências profissionais voltadas para área comercial e gestão de pessoas (Entreponto e Big Lar), atuou em treinamentos em técnica de vendas e de conhecimento do produto.
+Últimas experiências profissionais voltadas para área comercial e gestão de pessoas (Entreponto e na Big Lar), atuando tanto em treinamentos em técnica de vendas como outomatização de processo.
 Perfil empreendedor e apaixonado por aviação.
 
 ## Principais Tecnologias
