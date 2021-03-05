@@ -1,11 +1,7 @@
 <h1>Luís Ferrari</h1>
+Desenvolvedor full stack, com o desafio de impactar milhares de pessoas com soluções que facilite a vida de todos.
 
-Estudante de Trybe com foco em me tornar Desenvolvedor full stack.
-Com o desafio de impactar milhares de pessoas com soluções que facilite a vida de todos.
-
-Graduado em administração pela PUC de Goiás, adquiriu experiência analítica como corretor de investimentos (Gradual Investimentos) e como analista comercial e auditoria (BRMALLS).
-Últimas experiências profissionais voltadas para área comercial e gestão de pessoas (Entreponto e Big Lar).
-Perfil empreendedor e apaixonado por aviação.
+Perfil empreendedor, apaixonado por aviação e tecnologia.
 
 Linkedin: https://www.linkedin.com/in/luisdferrari/
 
