@@ -1,6 +1,8 @@
 <h1>Luís Ferrari</h1>
-Desenvolvedor full stack, com o desafio de impactar milhares de pessoas com soluções que facilite a vida de todos.
+Full stack developer, with the challenge of impacting thousands of people with solutions that make everyone's life easier.
+Entrepreneurial profile, passionate about aviation and technology.
 
+Desenvolvedor full stack, com o desafio de impactar milhares de pessoas com soluções que facilite a vida de todos.
 Perfil empreendedor, apaixonado por aviação e tecnologia.
 
 Linkedin: https://www.linkedin.com/in/luisdferrari/
