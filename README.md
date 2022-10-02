@@ -8,11 +8,11 @@ Perfil empreendedor, apaixonado por aviação e tecnologia.</i>
 
 Linkedin: https://www.linkedin.com/in/luisdferrari/
 
-<img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript&style=plastic" /> <img src="https://img.shields.io/badge/-Typescipt-white?logo=Typescript" /> <img src="https://img.shields.io/badge/-Python-white?logo=Python" />
-<img src="https://img.shields.io/badge/-React-blue?logo=React" /> <img src="https://img.shields.io/badge/-React--Native-blue?logo=React" /> <img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" /> <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> <img src="https://img.shields.io/badge/-SASS-white?logo=Sass" /> <img src="https://img.shields.io/badge/-Styled--Components-grey?logo=styled-components" /> <img src="https://img.shields.io/badge/-Redux-blueviolet?logo=Redux" />
-<img src="http://img.shields.io/badge/-Node.Js-green?logo=node.js" /> <img src="http://img.shields.io/badge/-MySQL-white?logo=mysql" /> <img src="http://img.shields.io/badge/-MongoDB-grey?logo=mongodb" />
+<img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript&style=plastic" /> <img src="https://img.shields.io/badge/-Typescipt-white?logo=Typescript&style=plastic" /> <img src="https://img.shields.io/badge/-Python-white?logo=Python&style=plastic" />
+<img src="https://img.shields.io/badge/-React-blue?logo=React&style=plastic" /> <img src="https://img.shields.io/badge/-React--Native-blue?logo=React&style=plastic" /> <img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5&style=plastic" /> <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3&style=plastic" /> <img src="https://img.shields.io/badge/-SASS-white?logo=Sass&style=plastic" /> <img src="https://img.shields.io/badge/-Styled--Components-grey?logo=styled-components&style=plastic" /> <img src="https://img.shields.io/badge/-Redux-blueviolet?logo=Redux&style=plastic" />
+<img src="http://img.shields.io/badge/-Node.Js-green?logo=node.js&style=plastic" /> <img src="http://img.shields.io/badge/-MySQL-white?logo=mysql&style=plastic" /> <img src="http://img.shields.io/badge/-MongoDB-grey?logo=mongodb&style=plastic" />
 
-<img src="https://img.shields.io/badge/-github-black?logo=github" /> <img src="https://img.shields.io/badge/-Azure-white?logo=azure" />
+<img src="https://img.shields.io/badge/-github-black?logo=github&style=plastic" /> <img src="https://img.shields.io/badge/-Azure-white?logo=azure&style=plastic" />
 
 ## Main Technologies / <i>Principais Tecnologias</i>
 
