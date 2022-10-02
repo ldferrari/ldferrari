@@ -13,6 +13,5 @@ Linkedin: https://www.linkedin.com/in/luisdferrari/
 ## Main Technologies / <i>Principais Tecnologias</i>
 
 [![](https://github-readme-stats.vercel.app/api?username=ldferrari&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldferrari&count_private=true)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ldferrari&layout=compact&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
