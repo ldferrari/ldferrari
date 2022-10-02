@@ -12,6 +12,6 @@ Linkedin: https://www.linkedin.com/in/luisdferrari/
 
 ## Main Technologies / <i>Principais Tecnologias</i>
 
-![](https://github-readme-stats.vercel.app/api?username=ldferrari&count_private=true&show_icons=true&theme=dark&include_all_commits=true&card_width=50%)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ldferrari&count_private=true&theme=dark&layout=compact&card_width=50%)
+![](https://github-readme-stats.vercel.app/api?username=ldferrari&count_private=true&show_icons=true&theme=dark&include_all_commits=true&card_width=300px)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ldferrari&count_private=true&theme=dark&layout=compact&card_width=300px)
 
