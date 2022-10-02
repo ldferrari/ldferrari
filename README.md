@@ -12,7 +12,7 @@ Linkedin: https://www.linkedin.com/in/luisdferrari/
 <img src="https://img.shields.io/badge/-React-blue?logo=React&style=plastic" /> <img src="https://img.shields.io/badge/-React--Native-blue?logo=React&style=plastic" /> <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=plastic" /> <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3&style=plastic" /> <img src="https://img.shields.io/badge/-SASS-white?logo=Sass&style=plastic" /> <img src="https://img.shields.io/badge/-Styled--Components-grey?logo=styled-components&style=plastic" /> <img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&style=plastic" />
 <img src="http://img.shields.io/badge/-Node.Js-green?logo=node.js&style=plastic" /> <img src="http://img.shields.io/badge/-MySQL-white?logo=mysql&style=plastic" /> <img src="http://img.shields.io/badge/-MongoDB-grey?logo=mongodb&style=plastic" />
 
-<img src="https://img.shields.io/badge/-github-black?logo=github&style=plastic" /> <img src="https://img.shields.io/badge/-Azure--Devops-0078D7?logo=azuredevops&style=plastic" />
+<img src="https://img.shields.io/badge/-git-white?logo=git&style=plastic" /> <img src="https://img.shields.io/badge/-github-black?logo=github&style=plastic" /> <img src="https://img.shields.io/badge/-Azure--Devops-0078D7?logo=azuredevops&style=plastic" />
 
 ## Main Technologies / <i>Principais Tecnologias</i>
 
